@@ -1,0 +1,10 @@
+
+config.py
+bot_errors.log
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+main_last_version.py
+backup_main_new_byError_version.py
