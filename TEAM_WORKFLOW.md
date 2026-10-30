@@ -10,4 +10,5 @@ This file is created by the second developer (again me) ! this is for test ...
 new edit after last commit - 1 hour ago .
 new edit after last commit - 1 hour ago .
 
-new line by second-Developer for conflict
+new line by second-Developer for conflict (2)
+new line and conflict by first-Developer (1)
