@@ -9,3 +9,5 @@ This file is created by the second developer (again me) ! this is for test ...
 ## New Edit
 new edit after last commit - 1 hour ago .
 new edit after last commit - 1 hour ago .
+
+new line by second-Developer for conflict
